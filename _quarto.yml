@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "kolkataruser.github.io"
+  title: "Kolkata R UseR Group"
   navbar:
     left:
       - href: index.qmd
