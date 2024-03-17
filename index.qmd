@@ -2,4 +2,65 @@
 title: "Kolkata R UseR"
 ---
 
-Welcome to Kolkata R UseR group
+![](images/logo2.jpg){fig-align="center" width="247"}
+
+```{=html}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Typing Animation</title>
+<style>
+    #text-container {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 20px;
+        overflow: hidden;
+        white-space: pre;
+        border-right: 2px solid black;
+        background-color: lightgrey;
+    }
+</style>
+</head>
+<body>
+<div id="text-container"></div>
+<script>
+    // Array of lines to be typed
+    var lines = [
+        "r_user_group %>%",
+        "   filter(str_detect(city, 'city of joy'))%>%",
+        "   group_by_all(occupation) %>%",
+        "   summarise(",
+        "     print(",
+        "       'Welcome to Kolkata R UseR group!!!'",
+        "     )",
+        ")"
+    ];
+
+    // Speed of typing in milliseconds
+    var speed = 50;
+
+    var lineIndex = 0;
+    var charIndex = 0;
+    function typeWriter() {
+        if (lineIndex < lines.length) {
+            if (charIndex < lines[lineIndex].length) {
+                document.getElementById("text-container").innerHTML += lines[lineIndex].charAt(charIndex) + "</strong>";
+                charIndex++;
+                setTimeout(typeWriter, speed);
+            } else {
+                // Move to the next line
+                document.getElementById("text-container").innerHTML += "<br>"; // Add line break
+                lineIndex++;
+                charIndex = 0; // Reset character index for next line
+                setTimeout(typeWriter, speed);
+            }
+        }
+    }
+
+    // Start typing animation
+    typeWriter();
+</script>
+</body>
+</html>
+```
