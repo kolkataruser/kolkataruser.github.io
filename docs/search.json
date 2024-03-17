@@ -4,13 +4,13 @@
     "href": "index.html",
     "title": "Kolkata R UseR",
     "section": "",
-    "text": "Typing Animation"
+    "text": "Typing Animation\n\n\n\n\n\n\n\n\nprint(Sys.time())\n\n[1] \"2024-03-17 19:07:34 IST\""
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Who we are?!"
+    "text": "Who are we?\n\nThis is Kolkata R UseR Group"
   }
 ]

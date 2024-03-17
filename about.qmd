@@ -2,4 +2,8 @@
 title: "About"
 ---
 
-Who we are?!
+Who are we?
+
+::: {style="color: navy; font-size: 18px; font-family: Garamond; text-align: center; border-radius: 3px; background-image: linear-gradient(#C3E5E5, #F6F7FC);"}
+**This is Kolkata R UseR Group**
+:::

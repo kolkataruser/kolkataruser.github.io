@@ -2,7 +2,7 @@
 title: "Kolkata R UseR"
 ---
 
-![](images/logo2.jpg){fig-align="center" width="247"}
+![](images/logo2.jpg){fig-align="center" width="401"}
 
 ```{=html}
 <!DOCTYPE html>
@@ -63,4 +63,7 @@ title: "Kolkata R UseR"
 </script>
 </body>
 </html>
+```
+```{r}
+print(Sys.time())
 ```
