@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Kolkata R UseR Group"
+  title: "Kolkata R UseR"
   navbar:
     left:
       - href: index.qmd
@@ -12,7 +12,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: yeti
     css: styles.css
     toc: true
 
