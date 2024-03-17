@@ -64,6 +64,3 @@ title: "Kolkata R UseR"
 </body>
 </html>
 ```
-```{r}
-print(Sys.time())
-```
