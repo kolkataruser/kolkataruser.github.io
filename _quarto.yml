@@ -3,15 +3,21 @@ project:
   output-dir: docs
 
 website:
+  site-url: 'https://kolkataruser.github.io/'
+  favicon: 'images/logo2.jpg'
   title: "Kolkata R UseR"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+    right:
+      - icon: github
+        href: 'https://github.com/kolkataruser/kolkataruser.github.io'
 
 format:
   html:
+    backgroundcolor: "#FFFEF1"
     theme: yeti
     css: styles.css
     toc: true

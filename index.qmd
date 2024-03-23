@@ -1,9 +1,13 @@
 ---
 title: "Kolkata R UseR"
+image: 'images/logo_orig.png'
+about:
+  template: jolla
+  image-width: "40%"
+  image-shape: rounded
 ---
 
-![](images/logo2.jpg){fig-align="center" width="401"}
-
+::: {style="text-align:left"}
 ```{=html}
 <!DOCTYPE html>
 <html lang="en">
@@ -13,7 +17,7 @@ title: "Kolkata R UseR"
 <title>Typing Animation</title>
 <style>
     #text-container {
-        font-family: 'Courier New', Courier, monospace;
+        font-family: 'Consolas', monospace;
         font-size: 20px;
         overflow: hidden;
         white-space: pre;
@@ -64,3 +68,4 @@ title: "Kolkata R UseR"
 </body>
 </html>
 ```
+:::
