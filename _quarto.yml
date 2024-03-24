@@ -11,6 +11,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - blog.qmd
     right:
       - icon: github
         href: 'https://github.com/kolkataruser/kolkataruser.github.io'
