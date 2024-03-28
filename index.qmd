@@ -1,10 +1,23 @@
 ---
 title: "Kolkata R UseR"
-image: 'images/logo_orig.png'
+image: 'images/logo_orig_644kb.png'
 about:
   template: jolla
   image-width: "40%"
   image-shape: rounded
+  links:
+    - icon: globe2
+      text: Website
+      href: https://kolkataruser.github.io
+    - icon: github
+      text: GitHub
+      href: https://github.com/kolkataruser
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/company/kolkata-r-user-group/
+    - icon: people
+      text: Meetup
+      href: https://www.meetup.com/kolkata-r-user-group/
 ---
 
 ::: {style="text-align:left"}
@@ -36,9 +49,7 @@ about:
         "   group_by_all(occupation) %>%",
         "   summarise(",
         "     print(",
-        "       'Welcome to Kolkata R UseR group!!!'",
-        "     )",
-        ")"
+        "       'Welcome to Kolkata R UseR group!!!'))",
     ];
 
     // Speed of typing in milliseconds
