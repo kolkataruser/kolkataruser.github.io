@@ -10,8 +10,12 @@ website:
     left:
       - href: index.qmd
         text: Home
+        icon: house
       - about.qmd
-      - blog.qmd
+      - href: blog.qmd
+        icon: substack
+      - href: member.qmd
+        icon: people
     right:
       - icon: github
         href: 'https://github.com/kolkataruser/kolkataruser.github.io'
@@ -19,9 +23,11 @@ website:
 format:
   html:
     backgroundcolor: "#FFFEF1"
-    theme: yeti
-    css: styles.css
-    toc: true
+    theme: 
+      - yeti
+      - style.scss
+    # css: styles.css
+    # toc: true
 
 editor: visual
 
