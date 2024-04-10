@@ -39,19 +39,19 @@ toc: false
 <div class="image-grid">
   <div class="image-item">
     <img src="images/sam_prof.jpg" alt="Image 1" class="image">
-    <p>Description for Image 1</p>
+    <p>Samrit Pramanik - Data Scientist</p>
   </div>
   <div class="image-item">
     <img src="images/abhi_prof.jpg" alt="Image 2" class="image">
-    <p>Description for Image 2</p>
+    <p>Abhirup Moitra - MSc in Math, IMA</p>
   </div>
   <div class="image-item">
     <img src="images/ani2_prof.jpg" alt="Image 3" class="image">
-    <p>Description for Image 3</p>
+    <p>Anwesha Roy - Statistical Programmer</p>
   </div>
   <div class="image-item">
     <img src="images/arghya_prof.jpg" alt="Image 4" class="image">
-    <p>Description for Image 4</p>
+    <p>Arghya Mukherjee - PhD Scholar, IIT Kanpur</p>
   </div>
 </div>
 
