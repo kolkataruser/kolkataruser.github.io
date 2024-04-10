@@ -45,7 +45,7 @@ about:
     // Array of lines to be typed
     var lines = [
         "r_user_group %>%",
-        "   filter(str_detect(city, 'city of joy'))%>%",
+        "   filter(str_detect(city, 'city of joy')) %>%",
         "   group_by_all(occupation) %>%",
         "   summarise(",
         "     print(",

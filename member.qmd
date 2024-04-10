@@ -12,3 +12,49 @@ toc: false
 -   Anwesha Roy
 
 -   Arghya Mukherjee
+
+```{=html}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Image Grid</title>
+<style>
+  .image-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+  }
+
+  .image {
+    max-width: 80%;
+    height: auto;
+    border-radius: 150px;
+  }
+</style>
+</head>
+<body>
+
+<div class="image-grid">
+  <div class="image-item">
+    <img src="images/sam_prof.jpg" alt="Image 1" class="image">
+    <p>Description for Image 1</p>
+  </div>
+  <div class="image-item">
+    <img src="images/abhi_prof.jpg" alt="Image 2" class="image">
+    <p>Description for Image 2</p>
+  </div>
+  <div class="image-item">
+    <img src="images/ani2_prof.jpg" alt="Image 3" class="image">
+    <p>Description for Image 3</p>
+  </div>
+  <div class="image-item">
+    <img src="images/arghya_prof.jpg" alt="Image 4" class="image">
+    <p>Description for Image 4</p>
+  </div>
+</div>
+
+</body>
+</html>
+```
