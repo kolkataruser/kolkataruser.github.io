@@ -19,6 +19,7 @@ website:
     right:
       - icon: github
         href: 'https://github.com/kolkataruser/kolkataruser.github.io'
+  page-footer: Built with Quarto 💙 <br> Copyright © 2024  by **Kolkata R UseR group** <br>
 
 format:
   html:
