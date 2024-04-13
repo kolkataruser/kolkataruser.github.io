@@ -35,7 +35,7 @@ toc: false
   </div>
   <div class="image-item">
     <img src="images/abhi_prof.jpg" alt="Image 2" class="image">
-    <p>Abhirup Moitra - MSc in Math, IMA</p>
+    <p>Abhirup Moitra - MSc in Math with Data Science, IMA</p>
   </div>
   <div class="image-item">
     <img src="images/ani2_prof.jpg" alt="Image 3" class="image">

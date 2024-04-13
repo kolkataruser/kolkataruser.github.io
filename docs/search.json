@@ -4,7 +4,7 @@
     "href": "member.html",
     "title": "Members",
     "section": "",
-    "text": "Organising Committee\n\n\n\n\n\nImage Grid\n\n\n\n\n\n  \n    \n    Samrit Pramanik - Data Scientist\n  \n  \n    \n    Abhirup Moitra - MSc in Math, IMA\n  \n  \n    \n    Anwesha Roy - Statistical Programmer\n  \n  \n    \n    Arghya Mukherjee - PhD Scholar, IIT Kanpur"
+    "text": "Organising Committee\n\n\n\n\n\nImage Grid\n\n\n\n\n\n  \n    \n    Samrit Pramanik - Data Scientist\n  \n  \n    \n    Abhirup Moitra - MSc in Math with Data Science, IMA\n  \n  \n    \n    Anwesha Roy - Statistical Programmer\n  \n  \n    \n    Arghya Mukherjee - PhD Scholar, IIT Kanpur"
   },
   {
     "objectID": "blog.html",
@@ -18,13 +18,6 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Welcome to the Kolkata R UseR group, a community of scientists and programmers with a passion for using R for data analysis and visualization. Whether you’re a beginner or an expert, join us to learn and share knowledge about R programming, statistical modeling, and machine learning. Network with like-minded professionals, attend workshops, and discover new opportunities in the field of data science. Let’s come together to explore the endless possibilities of R and push the boundaries of what can be achieved with this powerful programming language. Join us and unlock the potential of R in science and technology!"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Kolkata R UseR",
-    "section": "",
-    "text": "Typing Animation"
+    "text": "Typing Animation\n\n\n\n\n\n\n\n\n\n\nWelcome to the Kolkata R UseR group, a community of scientists and programmers with a passion for using R for data analysis and visualization.\n\nKolkata, celebrated for its rich cultural heritage and intellectual vibrancy, stands at the forefront of embracing the power of statistics and R programming across various sectors. With statistics playing a pivotal role in academic research, business analytics, and public policy, Kolkata’s academic community, bolstered by renowned universities and research institutions, demonstrates adeptness in harnessing statistical methods for data analysis and interpretation.\nIn parallel, the proliferation of R programming, an open-source statistical software, has significantly enhanced data analysis capabilities among Kolkata’s academia, researchers, and professionals. The software’s versatility and extensive libraries have rendered it a preferred choice for data analysis, visualization, and predictive modelling. Within academia, R programming finds extensive application across diverse disciplines such as economics, sociology, public health, and environmental science. Researchers leverage its ease of use and robustness to derive meaningful insights from complex datasets, addressing pressing societal challenges with data-driven precision. Furthermore, Kolkata’s enterprises recognize the invaluable role of R programming in market research, customer segmentation, and strategic decision-making. From fledgling start-ups to established corporations, R programming offers scalable solutions for analysing vast datasets and uncovering hidden patterns to drive informed business strategies.\nIn a unique convergence, Kolkata’s vibrant cultural scene intersects with statistics and R programming, fostering innovation and exploration. From analysing cultural trends in the arts and entertainment industry to implementing data-driven approaches for heritage conservation and urban planning, Kolkata’s creative minds seamlessly integrate statistics and technology into cultural endeavours.\nThanks to the generous support of the 𝐑 𝐂𝐨𝐧𝐬𝐨𝐫𝐭𝐢𝐮𝐦, we proudly announce the establishment of Kolkata’s third city-based R User Group in India! Our mission is to cultivate a sustainable ecosystem of R programming interfaces, spanning from educational institutions to corporate enterprises, and from research and development to academia. Join us in commemorating this milestone and embark on a journey to harness the power of R programming. Together, let’s elevate Kolkata’s data science scene to unprecedented heights!\n\n\n\n\n\n\n\n\n\n\n\nLet’s come together to explore the endless possibilities of R and push the boundaries of what can be achieved with this powerful programming language. Join us and unlock the potential of R in science and technology!"
   }
 ]
