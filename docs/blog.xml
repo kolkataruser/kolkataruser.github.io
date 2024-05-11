@@ -10,7 +10,7 @@
 <atom:link href="https://kolkataruser.github.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.433</generator>
-<lastBuildDate>Sat, 11 May 2024 20:05:20 GMT</lastBuildDate>
+<lastBuildDate>Sat, 11 May 2024 18:30:00 GMT</lastBuildDate>
 <item>
   <title>A Journey through Kolkata’s Historical Tapestry, Statistical Insights, and R Programming</title>
   <dc:creator>Abhirup Moitra</dc:creator>
@@ -144,7 +144,7 @@
 
  ]]></description>
   <guid>https://kolkataruser.github.io/posts/foundation-of-krug/index.html</guid>
-  <pubDate>Sat, 11 May 2024 20:05:20 GMT</pubDate>
+  <pubDate>Sat, 11 May 2024 18:30:00 GMT</pubDate>
   <media:content url="https://kolkataruser.github.io/posts/foundation-of-krug/krug.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>

@@ -2,6 +2,7 @@
 title: "A Journey through Kolkata's Historical Tapestry, Statistical Insights, and R Programming"
 subtitle: "Unleashing Kolkata's Data Potential: Let's Make Every Data Point Count with R"
 author: [Abhirup Moitra, Samrit Pramanik]
+date: "2024-05-12"
 format: 
   html: default
   pdf: 
