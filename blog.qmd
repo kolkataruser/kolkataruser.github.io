@@ -1,5 +1,15 @@
 ---
-title: Blogs
+title: "Blogs"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [image, date, description, categories, title, author, reading-time]
+  feed: true
+  page-size: 10
+page-layout: full
+title-block-banner: true
 ---
-
-Blog posts are coming soon!

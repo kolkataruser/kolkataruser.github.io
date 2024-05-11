@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Kolkata R UseR</title>
+<link>https://kolkataruser.github.io/blog.html</link>
+<atom:link href="https://kolkataruser.github.io/blog.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.3.433</generator>
+<lastBuildDate>Sat, 11 May 2024 20:05:20 GMT</lastBuildDate>
+<item>
+  <title>A Journey through Kolkata’s Historical Tapestry, Statistical Insights, and R Programming</title>
+  <dc:creator>Abhirup Moitra</dc:creator>
+  <dc:creator>Samrit Pramanik</dc:creator>
+  <link>https://kolkataruser.github.io/posts/foundation-of-krug/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="kolkatas-cultural-and-intellectual-vibrancy" class="level1">
+<h1><strong>Kolkata’s Cultural and Intellectual Vibrancy</strong></h1>
+<p>Kolkata, often hailed as the “City of Joy,” stands as a beacon of rich cultural heritage and intellectual vibrancy in India. Throughout its history, Kolkata has been a melting pot of diverse cultures, traditions, and ideas, fostering an environment conducive to the flourishing of arts, sciences, and intellectual pursuits. At the heart of Kolkata’s cultural tapestry lies a deep reverence for literature, music, art, and philosophy.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://kolkataruser.github.io/posts/foundation-of-krug/kolkata_banner.jpg" class="img-fluid figure-img" width="843"></p>
+</figure>
+</div>
+<p>The city’s bustling streets are adorned with architectural marvels that speak to its colonial past and indigenous influences, serving as tangible reminders of Kolkata’s cultural legacy. From the iconic <a href="https://en.wikipedia.org/wiki/Victoria_Memorial,_Kolkata">Victoria Memorial</a> to the majestic <a href="https://en.wikipedia.org/wiki/Howrah_Bridge">Howrah Bridge</a>, Kolkata’s landmarks reflect the city’s eclectic blend of heritage and modernity.</p>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="https://kolkataruser.github.io/posts/foundation-of-krug/Books.jpg" class="img-fluid"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="https://kolkataruser.github.io/posts/foundation-of-krug/caption.jpg" class="img-fluid" width="365"></p>
+</div>
+</div>
+</div>
+<p>Furthermore, Kolkata’s intellectual vibrancy extends beyond the realms of science and technology to encompass a wide array of disciplines, including philosophy, literature, and social sciences. Figures like Rabindranath Tagore, Bankim Chandra Chattopadhyay, and Swami Vivekananda have left an indelible imprint on Kolkata’s cultural landscape, shaping the city’s identity as a crucible of creativity and intellectual ferment.</p>
+</section>
+<section id="contributions-of-visionary-personalities" class="level1">
+<h1><strong>Contributions of Visionary Personalities</strong></h1>
+<p>Kolkata owes much of its intellectual vibrancy to luminaries like Sir Jagadish Chandra Bose, whose groundbreaking work in physics and biology, including experiments with radio waves and the study of plant responses, reshaped our understanding of the natural world.</p>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 42.2%;justify-content: center;">
+<p><img src="https://kolkataruser.github.io/posts/foundation-of-krug/bose-jc.jpg" class="img-fluid" width="343"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 57.8%;justify-content: center;">
+<p><img src="https://kolkataruser.github.io/posts/foundation-of-krug/jc-bose.jpg" class="img-fluid" width="470"></p>
+</div>
+</div>
+</div>
+<p>Satyendra Nath Bose, a prominent mathematician and physicist from Kolkata, collaborated with Albert Einstein to develop Bose-Einstein statistics and Bose-Einstein condensate, fundamental concepts in quantum physics. The discovery of Higgs-Boson particle, which played a crucial role in Standard Model in particle physics, stands as another testament to the profound impact of Indian scientist on the forefront of astrophysics and cosmology.</p>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 43.8%;justify-content: center;">
+<p><img src="https://kolkataruser.github.io/posts/foundation-of-krug/SatyenBose1925.jpg" class="img-fluid" width="296"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 56.2%;justify-content: center;">
+<p><img src="https://kolkataruser.github.io/posts/foundation-of-krug/sn-bose.jpeg" class="img-fluid" width="380"></p>
+</div>
+</div>
+</div>
+</section>
+<section id="kolkatas-intellectual-landscape-and-statistical-legacy" class="level1">
+<h1><strong>Kolkata’s Intellectual Landscape and Statistical Legacy</strong></h1>
+<section id="establishment-of-indian-statistical-institute-isi-p.c.-mahalanobis" class="level2">
+<h2 class="anchored" data-anchor-id="establishment-of-indian-statistical-institute-isi-p.c.-mahalanobis"><strong>Establishment of Indian Statistical Institute (ISI) &amp; P.C. Mahalanobis</strong></h2>
+<p>In the realm of statistics, Kolkata boasts the towering figure of <a href="https://en.wikipedia.org/wiki/Prasanta_Chandra_Mahalanobis">Prasanta Chandra Mahalanobis</a>, whose pioneering contributions laid the groundwork for modern statistical theory and its application in diverse fields.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://kolkataruser.github.io/posts/foundation-of-krug/PCMahalanobis.png" class="img-fluid figure-img"></p>
+</figure>
+</div>
+<p>Alongside other leading statisticians, Mahalanobis (<em>often referred to as the father of modern statistics in India</em>) founded the <a href="https://www.isical.ac.in/">Indian Statistical Institute (ISI)</a> in Kolkata in 1931, becoming a hub for statistical research and education. His development of the Mahalanobis distance and his pioneering work in sample surveys revolutionized statistical methodology, earned him global recognition.</p>
+<p>ISI’s origin can be traced back to the Statistical Laboratory in Presidency College, Kolkata, set up by Mahalanobis, who worked in the Physics Department of the college in the 1920s. An informal group developed in the Statistical Laboratory, which was located in his room at the Presidency College, Calcutta.</p>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="https://kolkataruser.github.io/posts/foundation-of-krug/isi-camp.jpg" class="img-fluid"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="https://kolkataruser.github.io/posts/foundation-of-krug/ISI Main Gate_0.jpg" class="img-fluid"></p>
+</div>
+</div>
+</div>
+</section>
+</section>
+<section id="unraveling-kolkatas-statistical-heritage" class="level1">
+<h1><strong>Unraveling Kolkata’s Statistical Heritage</strong></h1>
+<section id="a-chronicle-of-academic-eminence" class="level2">
+<h2 class="anchored" data-anchor-id="a-chronicle-of-academic-eminence"><strong>A Chronicle of Academic Eminence</strong></h2>
+<p>Kolkata’s statistical history is rich and diverse, reflecting its tradition of intellectual inquiry and scientific exploration. As the capital of British India during colonial times, Kolkata became a center for statistical research and application, driven by its vibrant academic community and economic activities.</p>
+<p>The city’s academic institutions, including the University of Calcutta became the first in Asia to offer post-graduate degree in Statistics (1941). Institutions like the Calcutta Statistical Association, founded in 1945, were pivotal in promoting the study of statistics across various fields.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://kolkataruser.github.io/posts/foundation-of-krug/collage_cu.jpg" class="img-fluid figure-img" width="559"></p>
+</figure>
+</div>
+<p>These institutions became centers of excellence for statistical education and research, attracting students and scholars from across the country. In addition to academic research, Kolkata’s statistical expertise found application in various sectors, including industry, government, and public policy.</p>
+</section>
+<section id="pioneering-the-path-of-progress" class="level2">
+<h2 class="anchored" data-anchor-id="pioneering-the-path-of-progress"><strong>Pioneering the Path of Progress</strong></h2>
+<p>The city’s statistical legacy extends to social and demographic studies, analyzing population dynamics, healthcare outcomes, and urban development. Statisticians play a vital role in addressing societal challenges in Kolkata’s rich cultural and diverse demographic landscape. The city’s history in statistics showcases an interplay between academic research, institutional development, and practical application, contributing to advancements in theory and real-world problem-solving.</p>
+</section>
+</section>
+<section id="empowering-kolkatas-academia-and-enterprises" class="level1">
+<h1><strong>Empowering Kolkata’s Academia and Enterprises</strong></h1>
+<section id="the-rise-of-r-programming" class="level2">
+<h2 class="anchored" data-anchor-id="the-rise-of-r-programming"><strong>The Rise of R Programming</strong></h2>
+<p>The widespread adoption of R programming in the city has revolutionized statistical analysis and visualization across academia and enterprises alike. Its versatility and extensive libraries make it the preferred choice for data analysis, visualization, and predictive modelling across diverse disciplines like economics, public health, environmental science and astronomy. Researchers and professionals leverage its ease of use and robustness to tackle complex data sets, driving informed decisions and addressing societal challenges with precision. In the business realm, from start-ups to corporations, R programming provides scalable solutions for market research, customer segmentation, and strategic decision-making by uncovering hidden patterns in vast data sets.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://kolkataruser.github.io/posts/foundation-of-krug/rstudio-og-fb-1.jpg" class="img-fluid figure-img" width="337"></p>
+<figcaption class="figure-caption">Image credit: RStudio</figcaption>
+</figure>
+</div>
+</section>
+<section id="the-foundation-of-the-kolkata-r-user-group-krug-for-data-literacy" class="level2">
+<h2 class="anchored" data-anchor-id="the-foundation-of-the-kolkata-r-user-group-krug-for-data-literacy"><strong>The Foundation of the Kolkata R User Group (KRUG) for Data Literacy</strong></h2>
+<p>The inception of Kolkata R UseR group marks the unique convergence of passion, expertise and a shared vision intersecting with vibrant culture of the city for advancing data science and statistics within our community. Founded by two ardent R enthusiasts, <a href="https://www.linkedin.com/in/samritpramanik24/">Samrit Pramanik</a>, a seasoned data scientist equipped with an MSc in Statistics from Calcutta University, and his friend <a href="https://www.linkedin.com/in/abhirup-moitra-7a66731a6/">Abhirup Moitra</a>, currently pursuing MSc in Math and Data Science from IMA, our group sets out on a mission to cultivate a dyanamic ecosystem where R users of all level can thrive.</p>
+<p>We are also delighted to welcome two more passionate individuals who share our dedication to R and its transformative potential. <a href="https://www.linkedin.com/in/anwesha-roy-187425187/">Anwesha Roy</a>, a proficient statistical programmer, injects practical industry insights. Meanwhile, <a href="https://www.linkedin.com/in/arghya-m/">Arghya Mukherjee</a>, on the path to a PhD scholar from IIT Kanpur, infuses our community with cutting-edge research perspective.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://kolkataruser.github.io/posts/foundation-of-krug/collage_prof.png" class="img-fluid figure-img" width="460"></p>
+<figcaption class="figure-caption">Samrit and Anwesha (left), Abhirup and Arghya (right)</figcaption>
+</figure>
+</div>
+<p>The integration of R programming and statistics elevates Kolkata as a center of <em>intellectual inquiry and scientific exploration</em>. R complements statistical methodologies, enhancing analysis, modeling, and visualization. Its indispensability spans academia and industry, reflecting Kolkata’s commitment to advancing statistical knowledge. The <strong>Kolkata R User Group (KRUG)</strong> plays a vital role in promoting R programming across educational institutions, fostering data literacy and analytical thinking. Their efforts enrich Kolkata’s cultural and intellectual landscape for future generations.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://kolkataruser.github.io/posts/foundation-of-krug/krug.jpg" class="img-fluid figure-img" width="448"></p>
+</figure>
+</div>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <guid>https://kolkataruser.github.io/posts/foundation-of-krug/index.html</guid>
+  <pubDate>Sat, 11 May 2024 20:05:20 GMT</pubDate>
+  <media:content url="https://kolkataruser.github.io/posts/foundation-of-krug/krug.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>
