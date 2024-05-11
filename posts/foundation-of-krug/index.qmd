@@ -54,7 +54,7 @@ In the realm of statistics, Kolkata boasts the towering figure of [Prasanta Chan
 
 Alongside other leading statisticians, Mahalanobis (*often referred to as the father of modern statistics in India*) founded the [Indian Statistical Institute (ISI)](https://www.isical.ac.in/) in Kolkata in 1931, becoming a hub for statistical research and education. His development of the Mahalanobis distance and his pioneering work in sample surveys revolutionized statistical methodology, earned him global recognition.
 
-ISI's origin can be traced back to the Statistical Laboratory in Presidency College, Kolkata, set up by Mahalanobis, who worked in the Physics Department of the college in the 1920s. An informal group developed in the Statistical Laboratory, which was located in his room at the Presidency College, Calcutta.
+ISI's origin can be traced back to the Statistical Laboratory in [Presidency College, Kolkata (now Presidency University)](https://www.presiuniv.ac.in/web/), set up by Mahalanobis, who worked in the Physics Department of the college in the 1920s. An informal group developed in the Statistical Laboratory, which was located in his room at the Presidency College, Calcutta.
 
 ::: {layout-ncol="2"}
 ![](isi-camp.jpg)
