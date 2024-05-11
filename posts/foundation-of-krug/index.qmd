@@ -1,12 +1,11 @@
 ---
 title: "A Journey through Kolkata's Historical Tapestry, Statistical Insights, and R Programming"
-subtitle: "Unleashing Kolkata's Data Potential: Let's Make Every Data Point Count with R"
+subtitle: "Unleashing Kolkata's Data Potential"
 author: [Abhirup Moitra, Samrit Pramanik]
 date: "2024-05-12"
 format: 
   html: default
-  pdf: 
-    pdf-engine: pdflatex
+toc: true
 editor: visual
 image: "krug.jpg"
 ---
@@ -63,6 +62,8 @@ ISI's origin can be traced back to the Statistical Laboratory in Presidency Coll
 ![](ISI%20Main%20Gate_0.jpg)
 :::
 
+The institute was initially in the Physics Department of the Presidency College; its expenditure in the first year was ₹238. It gradually grew with the pioneering work of a group of his colleagues, including S. S. Bose, J. M. Sengupta, [R. C. Bose](https://en.wikipedia.org/wiki/Raj_Chandra_Bose), [S. N. Roy](https://en.wikipedia.org/wiki/Samarendra_Nath_Roy), K. R. Nair, [R. R. Bahadur](https://en.wikipedia.org/wiki/Raghu_Raj_Bahadur), [Gopinath Kallianpur](https://en.wikipedia.org/wiki/Gopinath_Kallianpur), D. B. Lahiri and [C. R. Rao](https://en.wikipedia.org/wiki/C._R._Rao).
+
 # **Unraveling Kolkata's Statistical Heritage**
 
 ## **A Chronicle of Academic Eminence**
@@ -95,6 +96,10 @@ Founded by two ardent R enthusiasts, [Samrit Pramanik](https://www.linkedin.com/
 
 ![Samrit and Anwesha (left), Abhirup and Arghya (right)](collage_prof.png){fig-align="center" width="460"}
 
-The integration of R programming and statistics elevates Kolkata as a center of *intellectual inquiry and scientific exploration*. R complements statistical methodologies, enhancing analysis, modeling, and visualization. Its indispensability spans academia and industry, reflecting Kolkata's commitment to advancing statistical knowledge. The **Kolkata R User Group (KRUG)** plays a vital role in promoting R programming across educational institutions, fostering data literacy and analytical thinking. Their efforts enrich Kolkata's cultural and intellectual landscape for future generations.
+The integration of R programming and statistics elevates Kolkata as a hub of *intellectual inquiry and scientific exploration*. R complements statistical methodologies, enhancing analysis, modeling, and visualization. Its indispensability spans academia and industry, reflecting Kolkata's commitment to advancing statistical knowledge. The mission and vision **Kolkata R User Group (KRUG)** plays a vital role in promoting R programming across educational institutions in the city and suburban areas of West Bengal, fostering data literacy and analytical thinking. Their efforts enrich Kolkata's cultural and intellectual landscape for future generations.
 
 ![](krug.jpg){fig-align="center" width="448"}
+
+::: {style="text-align: center; font-family: Georgia; font-size: 30px"}
+*Let's Make Every Data Point Count with R!*
+:::
