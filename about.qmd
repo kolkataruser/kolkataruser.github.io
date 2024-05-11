@@ -2,8 +2,85 @@
 title: "About"
 ---
 
-::: {style="color: navy; font-size: 22px; text-align: center; border-radius: 3px; background-image: linear-gradient(#C3E5E5, #F6F7FC);"}
-Welcome to the **Kolkata R UseR** group, a community of scientists and programmers with a passion for using R for data analysis and visualization. Whether you're a beginner or an expert, join us to learn and share knowledge about R programming, statistical modeling, and machine learning. Network with like-minded professionals, attend workshops, and discover new opportunities in the field of data science. Let's come together to explore the endless possibilities of R and push the boundaries of what can be achieved with this powerful programming language. Join us and unlock the potential of R in science and technology!
+::: {style="text-align:left"}
+```{=html}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Typing Animation</title>
+<style>
+    #text-container {
+        font-family: 'Consolas', monospace;
+        font-size: 20px;
+        overflow: hidden;
+        white-space: pre;
+        border-right: 2px solid black;
+        background-color: lightgrey;
+    }
+</style>
+</head>
+<body>
+<div id="text-container"></div>
+<script>
+    // Array of lines to be typed
+    var lines = [
+        "r_user_group %>%",
+        "   filter(str_detect(city, 'city of joy')) %>%",
+        "   group_by_all(occupation) %>%",
+        "   summarise(",
+        "     print(",
+        "       'Welcome to Kolkata R UseR group!!!'))",
+    ];
+
+    // Speed of typing in milliseconds
+    var speed = 50;
+
+    var lineIndex = 0;
+    var charIndex = 0;
+    function typeWriter() {
+        if (lineIndex < lines.length) {
+            if (charIndex < lines[lineIndex].length) {
+                document.getElementById("text-container").innerHTML += lines[lineIndex].charAt(charIndex) + "</strong>";
+                charIndex++;
+                setTimeout(typeWriter, speed);
+            } else {
+                // Move to the next line
+                document.getElementById("text-container").innerHTML += "<br>"; // Add line break
+                lineIndex++;
+                charIndex = 0; // Reset character index for next line
+                setTimeout(typeWriter, speed);
+            }
+        }
+    }
+
+    // Start typing animation
+    typeWriter();
+</script>
+</body>
+</html>
+```
 :::
 
-![](images/logo_orig_644kb.png){fig-align="center" width="279"}
+------------------------------------------------------------------------
+
+::: {style="color: navy; font-size: 22px; text-align: center; border-radius: 3px; background-image: linear-gradient(#C3E5E5, #F6F7FC);"}
+Welcome to the **Kolkata R UseR** group, a community of scientists and programmers with a passion for using R for data analysis and visualization.
+:::
+
+Kolkata, celebrated for its rich cultural heritage and intellectual vibrancy, stands at the forefront of embracing the power of statistics and R programming across various sectors. With statistics playing a pivotal role in academic research, business analytics, and public policy, Kolkata's academic community, bolstered by renowned universities and research institutions, demonstrates adeptness in harnessing statistical methods for data analysis and interpretation.
+
+In parallel, the proliferation of R programming, an open-source statistical software, has significantly enhanced data analysis capabilities among Kolkata's academia, researchers, and professionals. The software's versatility and extensive libraries have rendered it a preferred choice for data analysis, visualization, and predictive modelling. Within academia, R programming finds extensive application across diverse disciplines such as economics, sociology, public health, and environmental science. Researchers leverage its ease of use and robustness to derive meaningful insights from complex datasets, addressing pressing societal challenges with data-driven precision. Furthermore, Kolkata's enterprises recognize the invaluable role of R programming in market research, customer segmentation, and strategic decision-making. From fledgling start-ups to established corporations, R programming offers scalable solutions for analysing vast datasets and uncovering hidden patterns to drive informed business strategies.
+
+In a unique convergence, Kolkata's vibrant cultural scene intersects with statistics and R programming, fostering innovation and exploration. From analysing cultural trends in the arts and entertainment industry to implementing data-driven approaches for heritage conservation and urban planning, Kolkata's creative minds seamlessly integrate statistics and technology into cultural endeavours.
+
+Thanks to the generous support of the [𝐑 𝐂𝐨𝐧𝐬𝐨𝐫𝐭𝐢𝐮𝐦](https://www.r-consortium.org/), we proudly announce the establishment of Kolkata's third city-based R User Group in India! Our mission is to cultivate a sustainable ecosystem of R programming interfaces, spanning from educational institutions to corporate enterprises, and from research and development to academia. Join us in commemorating this milestone and embark on a journey to harness the power of R programming. Together, let's elevate Kolkata's data science scene to unprecedented heights!
+
+![](images/logo_orig_644kb.png){fig-align="center" width="420"}
+
+[![](images/R-con.png){fig-alt="R Consortium" fig-align="center" width="608" height="140"}](https://www.r-consortium.org/)
+
+::: {style="font-family: Georgia; text-align: center; font-size: 17px"}
+***Let's come together to explore the endless possibilities of R and push the boundaries of what can be achieved with this powerful programming language. Join us and unlock the potential of R in science and technology!***
+:::
