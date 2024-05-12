@@ -23,7 +23,8 @@ website:
         href: 'https://github.com/kolkataruser/kolkataruser.github.io'
       - icon: whatsapp
         href: 'https://chat.whatsapp.com/KEAPeYSLPJDEKTljINA5m7'
-  page-footer: 
+  page-footer:
+    background: "#ECF2FF"
     left: Built with Quarto 💙 <br> Copyright © 2024 **Kolkata R UseR group** <br>
     right: Proudly supported by <br> [![](images/R-con.png){fig-alt="R Consortium" fig-align="center" height="40"}](https://www.r-consortium.org/)
 
