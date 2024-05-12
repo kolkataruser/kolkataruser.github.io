@@ -6,6 +6,8 @@ website:
   site-url: 'https://kolkataruser.github.io/'
   favicon: 'images/logo2.jpg'
   title: "Kolkata R UseR"
+  open-graph:
+    image: "images/logo2.jpg"
   navbar:
     left:
       - href: index.qmd
@@ -21,7 +23,9 @@ website:
         href: 'https://github.com/kolkataruser/kolkataruser.github.io'
       - icon: whatsapp
         href: 'https://chat.whatsapp.com/KEAPeYSLPJDEKTljINA5m7'
-  page-footer: Built with Quarto 💙 <br> Copyright © 2024  by **Kolkata R UseR group** <br>
+  page-footer: 
+    left: Built with Quarto 💙 <br> Copyright © 2024 **Kolkata R UseR group** <br>
+    right: Proudly supported by <br> [![](images/R-con.png){fig-alt="R Consortium" fig-align="center" height="40"}](https://www.r-consortium.org/)
 
 format:
   html:

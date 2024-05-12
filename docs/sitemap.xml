@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://kolkataruser.github.io/member.html</loc>
-    <lastmod>2024-05-11T19:41:04.055Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kolkataruser.github.io/blog.html</loc>
-    <lastmod>2024-05-11T21:18:30.524Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kolkataruser.github.io/about.html</loc>
-    <lastmod>2024-05-11T19:41:02.285Z</lastmod>
+    <loc>https://kolkataruser.github.io/posts/foundation-of-krug/index.html</loc>
+    <lastmod>2024-05-12T05:06:13.896Z</lastmod>
   </url>
   <url>
     <loc>https://kolkataruser.github.io/index.html</loc>
-    <lastmod>2024-05-11T19:51:31.775Z</lastmod>
+    <lastmod>2024-05-12T05:19:08.218Z</lastmod>
   </url>
   <url>
-    <loc>https://kolkataruser.github.io/posts/foundation-of-krug/index.html</loc>
-    <lastmod>2024-05-11T21:18:32.520Z</lastmod>
+    <loc>https://kolkataruser.github.io/about.html</loc>
+    <lastmod>2024-05-12T05:06:11.066Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kolkataruser.github.io/blog.html</loc>
+    <lastmod>2024-05-12T05:06:11.853Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kolkataruser.github.io/member.html</loc>
+    <lastmod>2024-05-12T05:06:13.089Z</lastmod>
   </url>
 </urlset>
