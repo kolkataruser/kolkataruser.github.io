@@ -72,7 +72,7 @@ Kolkata's statistical history is rich and diverse, reflecting its tradition of i
 
 The city's academic institutions, including the University of Calcutta became the first in Asia to offer post-graduate degree in Statistics (1941). Institutions like the Calcutta Statistical Association, founded in 1945, were pivotal in promoting the study of statistics across various fields.
 
-![](collage_cu.jpg){fig-align="center" width="559"}
+![](cu.jpg){fig-align="center" width="465"}
 
 These institutions became centers of excellence for statistical education and research, attracting students and scholars from across the country. In addition to academic research, Kolkata's statistical expertise found application in various sectors, including industry, government, and public policy.
 
