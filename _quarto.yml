@@ -18,6 +18,8 @@ website:
         icon: substack
       - href: member.qmd
         icon: people
+      - href: meetup.qmd
+        icon: people
     right:
       - icon: github
         href: 'https://github.com/kolkataruser/kolkataruser.github.io'
