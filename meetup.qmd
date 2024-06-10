@@ -5,7 +5,7 @@ toc: false
 
 ::: {style="text-align: center"}
 | Event Date     | Event Id | Event Name             | Event Type | Speaker                                      | Recordings |
-|------------|-------------|-------------|-------------|-------------------|-------------|
+|----------------|----------|------------------------|------------|----------------------------------------------|------------|
 | 8th June, 2024 | `VR01`   | Everything with Quarto | Virtual    | [Samrit Pramanik](https://samrit.quarto.pub) | \-         |
 | TBD            | `VR02`   | TBD                    | Virtual    | Abhimanyu Gupta                              | \-         |
 |                |          |                        |            |                                              |            |
