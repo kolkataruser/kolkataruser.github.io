@@ -4,8 +4,8 @@ toc: false
 ---
 
 ::: {style="text-align: center; font-size: 22px"}
-| Event Date     | Event Id | Event Name             | Event Type | Speaker                                      | Recordings                                   |
-|------------|------------|------------|------------|------------|------------|
-| 8th June, 2024 | `VR01`   | Everything with Quarto | Virtual    | [Samrit Pramanik](https://samrit.quarto.pub) | [YouTube Link](https://youtu.be/iqbxK5QsB1c) |
-| TBD            | `VR02`   | TBD                    | Virtual    | Abhimanyu Gupta                              | \-                                           |
+| Event Date      | Event Id | Event Name                                        | Event Type | Speaker                                      | Recordings                                   |
+|-----------|-----------|-----------|-----------|-----------|-----------|
+| 8th June, 2024  | `VR01`   | Everything with Quarto                            | Virtual    | [Samrit Pramanik](https://samrit.quarto.pub) | [YouTube Link](https://youtu.be/iqbxK5QsB1c) |
+| 13th July, 2024 | `VR02`   | A New Approach for Teaching Data Analytics with R | Virtual    | Abhimanyu Gupta                              | \-                                           |
 :::

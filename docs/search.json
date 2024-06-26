@@ -46,7 +46,7 @@
     "href": "meetup.html",
     "title": "MeetUp",
     "section": "",
-    "text": "Event Date\nEvent Id\nEvent Name\nEvent Type\nSpeaker\nRecordings\n\n\n\n\n8th June, 2024\nVR01\nEverything with Quarto\nVirtual\nSamrit Pramanik\nYouTube Link\n\n\nTBD\nVR02\nTBD\nVirtual\nAbhimanyu Gupta\n-"
+    "text": "Event Date\nEvent Id\nEvent Name\nEvent Type\nSpeaker\nRecordings\n\n\n\n\n8th June, 2024\nVR01\nEverything with Quarto\nVirtual\nSamrit Pramanik\nYouTube Link\n\n\n13th July, 2024\nVR02\nA New Approach for Teaching Data Analytics with R\nVirtual\nAbhimanyu Gupta\n-"
   },
   {
     "objectID": "blog.html",
@@ -68,5 +68,12 @@
     "title": "Members",
     "section": "",
     "text": "Organising Committee\n\n\n\n\n\nImage Grid\n\n\n\n\n\n  \n    \n    Samrit Pramanik - Data Scientist\n  \n  \n    \n    Abhirup Moitra - MSc in Math with Data Science, IMA\n  \n  \n    \n    Anwesha Roy - Statistical Programmer\n  \n  \n    \n    Arghya Mukherjee - PhD Scholar, IIT Kanpur"
+  },
+  {
+    "objectID": "test.html",
+    "href": "test.html",
+    "title": "Large gt Table Split into Pages",
+    "section": "",
+    "text": "Load necessary packages\nlibrary(dplyr) library(gt)\n\n\nCreate a large data frame\ndf &lt;- data.frame( Group = rep(c(“A”, “B”, “C”), each = 10), Item = rep(paste(“Item”, 1:10), times = 3), Value = sample(1:100, 30, replace = TRUE) )\n\n\nSplit the data frame into two parts\ndf_part1 &lt;- df[1:15, ] df_part2 &lt;- df[16:30, ]\n\n\nCreate the first table\ntable_part1 &lt;- df_part1 %&gt;% gt() %&gt;% tab_header( title = “Page 1” )\n\n\nCreate the second table\ntable_part2 &lt;- df_part2 %&gt;% gt() %&gt;% tab_header( title = “Page 2” )\n\n\nRender the tables sequentially\ntable_part1 table_part2"
   }
 ]

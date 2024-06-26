@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Kolkata R UseR - MeetUp</title>
+<title>Kolkata R UseR - Large gt Table Split into Pages</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -69,7 +69,8 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<meta property="og:title" content="Kolkata R UseR - MeetUp">
+<meta property="og:title" content="Kolkata R UseR - Large gt Table Split into Pages">
+<meta property="og:description" content="">
 <meta property="og:image" content="https://kolkataruser.github.io/images/logo2.jpg">
 <meta property="og:site_name" content="Kolkata R UseR">
 </head>
@@ -111,7 +112,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Members</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./meetup.html" aria-current="page"> <i class="bi bi-people-fill" role="img">
+    <a class="nav-link" href="./meetup.html"> <i class="bi bi-people-fill" role="img">
 </i> 
 <span class="menu-text">MeetUp</span></a>
   </li>  
@@ -144,7 +145,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">MeetUp</h1>
+<h1 class="title">Large gt Table Split into Pages</h1>
 </div>
 
 
@@ -161,40 +162,32 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div style="text-align: center; font-size: 22px">
-<table class="table">
-<thead>
-<tr class="header">
-<th>Event Date</th>
-<th>Event Id</th>
-<th>Event Name</th>
-<th>Event Type</th>
-<th>Speaker</th>
-<th>Recordings</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>8th June, 2024</td>
-<td><code>VR01</code></td>
-<td>Everything with Quarto</td>
-<td>Virtual</td>
-<td><a href="https://samrit.quarto.pub">Samrit Pramanik</a></td>
-<td><a href="https://youtu.be/iqbxK5QsB1c">YouTube Link</a></td>
-</tr>
-<tr class="even">
-<td>13th July, 2024</td>
-<td><code>VR02</code></td>
-<td>A New Approach for Teaching Data Analytics with R</td>
-<td>Virtual</td>
-<td>Abhimanyu Gupta</td>
-<td>-</td>
-</tr>
-</tbody>
-</table>
-</div>
+<section id="load-necessary-packages" class="level1">
+<h1>Load necessary packages</h1>
+<p>library(dplyr) library(gt)</p>
+</section>
+<section id="create-a-large-data-frame" class="level1">
+<h1>Create a large data frame</h1>
+<p>df &lt;- data.frame( Group = rep(c(“A”, “B”, “C”), each = 10), Item = rep(paste(“Item”, 1:10), times = 3), Value = sample(1:100, 30, replace = TRUE) )</p>
+</section>
+<section id="split-the-data-frame-into-two-parts" class="level1">
+<h1>Split the data frame into two parts</h1>
+<p>df_part1 &lt;- df[1:15, ] df_part2 &lt;- df[16:30, ]</p>
+</section>
+<section id="create-the-first-table" class="level1">
+<h1>Create the first table</h1>
+<p>table_part1 &lt;- df_part1 %&gt;% gt() %&gt;% tab_header( title = “Page 1” )</p>
+</section>
+<section id="create-the-second-table" class="level1">
+<h1>Create the second table</h1>
+<p>table_part2 &lt;- df_part2 %&gt;% gt() %&gt;% tab_header( title = “Page 2” )</p>
+</section>
+<section id="render-the-tables-sequentially" class="level1">
+<h1>Render the tables sequentially</h1>
+<p>table_part1 table_part2</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
