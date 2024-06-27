@@ -38,6 +38,14 @@ toc: false
     <p>Abhirup Moitra - MSc in Math with Data Science, IMA</p>
   </div>
   <div class="image-item">
+    <img src="images/susmita.jpg" alt="Image 3" class="image">
+    <p>Susmita Chatterjee - Assistant Professor and PhD Supervisor in Economics with extensive academic and research experience, specializing in International Economics, Econometrics, and Financial Economics</p>
+    </div>
+  <div class="image-item">
+    <img src="images/sakhi.jpg" alt="Image 3" class="image">
+    <p>Sakhi Roy - Assistant Professor of Economics at Amity University, Kolkata, and a researcher at Jawaharlal Nehru University, specializing in Institutional Economics, Health Economics, and Development Economics</p>
+    </div>
+  <div class="image-item">
     <img src="images/ani2_prof.jpg" alt="Image 3" class="image">
     <p>Anwesha Roy - Statistical Programmer</p>
   </div>
