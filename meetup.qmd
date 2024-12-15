@@ -5,10 +5,11 @@ toc: false
 
 ::: {style="text-align: center; font-size: 22px"}
 | Event Date | Event Id | Event Name | Event Type | Speaker | Recordings |
-|----|----|----|----|----|----|
+|------------|------------|------------|------------|------------|------------|
 | 8th June, 2024 | `VR01` | Everything with Quarto | Virtual | [Samrit Pramanik](https://samrit.quarto.pub) | [YouTube Link](https://youtu.be/iqbxK5QsB1c) |
 | 13th July, 2024 | `VR02` | A New Approach for Teaching Data Analytics with R | Virtual | [Abhimanyu Gupta](https://www.linkedin.com/in/abhimanyu-gupta/) | [YouTube Link](https://youtu.be/QLlLE1Lsr2g) |
 | 27th July, 2024 | `VR03` | Structural Equation Modeling with R | Virtual | Susmita Chatterjee | [YouTube Link](https://youtu.be/n2OsrIeoUac) |
 | 21st September, 2024 | `VR05` | Use Quarto, Make Friends! | Virtual | [Chi Zhang](https://andreaczhang.github.io/) | [YouTube Link](https://youtu.be/0TEdFZ17FhY) |
 | 8th November, 2024 | `VR06` | Project Oriented Workflows | Virtual | [Shannon Pileggi](https://www.pipinghotdata.com/) | [YouTube Link](https://youtu.be/ZuXkeMLjk7s) |
+| 13-14th November, 2024 | `IP01` | Basic Statistics and Data Analysis with R | In-person | [Samrit Pramanik](https://samrit.quarto.pub), [Ankita Bose](https://www.linkedin.com/in/abose1998/), Susmita Chatterjee | \- |
 :::
