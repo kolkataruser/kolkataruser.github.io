@@ -12,4 +12,5 @@ toc: false
 | 21st September, 2024 | `VR05` | Use Quarto, Make Friends! | Virtual | [Chi Zhang](https://andreaczhang.github.io/) | [YouTube Link](https://youtu.be/0TEdFZ17FhY) |
 | 8th November, 2024 | `VR06` | Project Oriented Workflows | Virtual | [Shannon Pileggi](https://www.pipinghotdata.com/) | [YouTube Link](https://youtu.be/ZuXkeMLjk7s) |
 | 13-14th November, 2024 | `IP01` | Basic Statistics and Data Analysis with R | In-person | [Samrit Pramanik](https://samrit.quarto.pub), [Ankita Bose](https://www.linkedin.com/in/abose1998/), Susmita Chatterjee | \- |
+| 22nd December, 2024 | `VR07` | Bayesian Modelling with R and Stan | Virtual | [Soham Mukherjee](https://www.linkedin.com/in/soham-mukherjee-33a397146/) | [YouTube Link](https://youtu.be/GUD-V31RORM?si=DO80rdsJ3TGAaNGs) |
 :::
