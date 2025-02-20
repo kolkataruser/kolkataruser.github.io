@@ -9,7 +9,7 @@
 <link>https://kolkataruser.github.io/blog.html</link>
 <atom:link href="https://kolkataruser.github.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.4.554</generator>
+<generator>quarto-1.6.40</generator>
 <lastBuildDate>Sat, 11 May 2024 18:30:00 GMT</lastBuildDate>
 <item>
   <title>A Journey through Kolkata’s Historical Tapestry, Statistical Insights, and R Programming</title>
@@ -54,10 +54,10 @@
 </div>
 <div class="quarto-layout-panel" data-layout-ncol="2">
 <div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-layout-cell" style="flex-basis: 42.2%;justify-content: center;">
 <p><img src="https://kolkataruser.github.io/posts/foundation-of-krug/bose-jc.jpg" class="img-fluid" width="343"></p>
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-layout-cell" style="flex-basis: 57.8%;justify-content: center;">
 <p><img src="https://kolkataruser.github.io/posts/foundation-of-krug/jc-bose.jpg" class="img-fluid" width="470"></p>
 </div>
 </div>
@@ -68,10 +68,10 @@
 </div>
 <div class="quarto-layout-panel" data-layout-ncol="2">
 <div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-layout-cell" style="flex-basis: 43.8%;justify-content: center;">
 <p><img src="https://kolkataruser.github.io/posts/foundation-of-krug/SatyenBose1925.jpg" class="img-fluid" width="296"></p>
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-layout-cell" style="flex-basis: 56.2%;justify-content: center;">
 <p><img src="https://kolkataruser.github.io/posts/foundation-of-krug/sn-bose.jpeg" class="img-fluid" width="380"></p>
 </div>
 </div>
