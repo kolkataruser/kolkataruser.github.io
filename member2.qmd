@@ -1,0 +1,112 @@
+---
+title: Members
+toc: false
+---
+
+# Organizing Committee
+
+\`\`\`{=html} \<!DOCTYPE html\>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Organizing Committee</title>
+
+```{=html}
+<style>
+  .team-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    text-align: center;
+  }
+
+  .team-member {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .team-member img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid #555;
+  }
+
+  .team-member p {
+    margin: 10px 0 0;
+    font-size: 16px;
+    font-weight: bold;
+  }
+
+  .designation {
+    font-size: 14px;
+    color: #666;
+  }
+</style>
+```
+
+</head>
+
+<body>
+
+::::::::: team-container
+::: team-member
+```         
+<img src="images/sam_prof.jpg" alt="Samrit Pramanik">
+<p>Samrit Pramanik</p>
+<p class="designation">Data Scientist</p>
+```
+:::
+
+::: team-member
+```         
+<img src="images/abhi_prof.jpg" alt="Abhirup Moitra">
+<p>Abhirup Moitra</p>
+<p class="designation">MSc in Math with Data Science, IMA</p>
+```
+:::
+
+::: team-member
+```         
+<img src="images/susmita.jpg" alt="Susmita Chatterjee">
+<p>Susmita Chatterjee</p>
+<p class="designation">Assistant Professor & PhD Supervisor</p>
+```
+:::
+
+::: team-member
+```         
+<img src="images/sakhi.jpg" alt="Sakhi Roy">
+<p>Sakhi Roy</p>
+<p class="designation">Assistant Professor, Amity University</p>
+```
+:::
+
+::: team-member
+```         
+<img src="images/ani2_prof.jpg" alt="Anwesha Roy">
+<p>Anwesha Roy</p>
+<p class="designation">Statistical Programmer</p>
+```
+:::
+
+::: team-member
+```         
+<img src="images/arghya_prof.jpg" alt="Arghya Mukherjee">
+<p>Arghya Mukherjee</p>
+<p class="designation">PhD Scholar, IIT Kanpur</p>
+```
+:::
+:::::::::
+
+</body>
+
+</html>

@@ -31,15 +31,15 @@ toc: false
 <div class="image-grid">
   <div class="image-item">
     <img src="images/sam_prof.jpg" alt="Image 1" class="image">
-    <p>Samrit Pramanik - Data Scientist</p>
+    <p>Samrit Pramanik - Data Scientist, R Developer and Statistician</p>
   </div>
   <div class="image-item">
     <img src="images/abhi_prof.jpg" alt="Image 2" class="image">
-    <p>Abhirup Moitra - MSc in Math with Data Science, IMA</p>
+    <p>Abhirup Moitra - Research Scholar in Mathematical Statistics, R User</p>
   </div>
   <div class="image-item">
     <img src="images/susmita.jpg" alt="Image 3" class="image">
-    <p>Susmita Chatterjee - Assistant Professor and PhD Supervisor in Economics with extensive academic and research experience, specializing in International Economics, Econometrics, and Financial Economics</p>
+    <p>Susmita Chatterjee - Assistant Professor and PhD Supervisor in Economics, specializing in International Economics, Econometrics, and Financial Economics</p>
     </div>
   <div class="image-item">
     <img src="images/sakhi.jpg" alt="Image 3" class="image">
@@ -52,6 +52,10 @@ toc: false
   <div class="image-item">
     <img src="images/arghya_prof.jpg" alt="Image 4" class="image">
     <p>Arghya Mukherjee - PhD Scholar, IIT Kanpur</p>
+  </div>
+  <div class="image-item">
+    <img src="images/ankita.jpg" alt="Image 5" class="image">
+    <p>Ankita Bose - Assistant Manager in Data Science</p>
   </div>
 </div>
 

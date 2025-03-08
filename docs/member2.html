@@ -70,6 +70,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <meta property="og:title" content="Members – Kolkata R UseR">
+<meta property="og:description" content="">
 <meta property="og:image" content="https://kolkataruser.github.io/images/logo2.jpg">
 <meta property="og:site_name" content="Kolkata R UseR">
 </head>
@@ -106,7 +107,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Blogs</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./member.html" aria-current="page"> <i class="bi bi-people" role="img">
+    <a class="nav-link" href="./member.html"> <i class="bi bi-people" role="img">
 </i> 
 <span class="menu-text">Members</span></a>
   </li>  
@@ -161,61 +162,83 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="organising-committee" class="level1">
-<h1>Organising Committee</h1>
-
+<section id="organizing-committee" class="level1">
+<h1>Organizing Committee</h1>
+<p>```{=html} &lt;!DOCTYPE html&gt;</p>
 
 
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Image Grid</title>
+<title>
+Organizing Committee
+</title>
 <style>
-  .image-grid {
+  .team-container {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 20px;
+    text-align: center;
   }
 
-  .image {
-    max-width: 80%;
-    height: auto;
-    border-radius: 150px;
+  .team-member {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .team-member img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid #555;
+  }
+
+  .team-member p {
+    margin: 10px 0 0;
+    font-size: 16px;
+    font-weight: bold;
+  }
+
+  .designation {
+    font-size: 14px;
+    color: #666;
   }
 </style>
 
 
-
-<div class="image-grid">
-  <div class="image-item">
-    <img src="images/sam_prof.jpg" alt="Image 1" class="image">
-    <p>Samrit Pramanik - Data Scientist, R Developer and Statistician</p>
-  </div>
-  <div class="image-item">
-    <img src="images/abhi_prof.jpg" alt="Image 2" class="image">
-    <p>Abhirup Moitra - Research Scholar in Mathematical Statistics, R User</p>
-  </div>
-  <div class="image-item">
-    <img src="images/susmita.jpg" alt="Image 3" class="image">
-    <p>Susmita Chatterjee - Assistant Professor and PhD Supervisor in Economics, specializing in International Economics, Econometrics, and Financial Economics</p>
-    </div>
-  <div class="image-item">
-    <img src="images/sakhi.jpg" alt="Image 3" class="image">
-    <p>Sakhi Roy - Assistant Professor of Economics at Amity University, Kolkata, and a researcher at Jawaharlal Nehru University, specializing in Institutional Economics, Health Economics, and Development Economics</p>
-    </div>
-  <div class="image-item">
-    <img src="images/ani2_prof.jpg" alt="Image 3" class="image">
-    <p>Anwesha Roy - Statistical Programmer</p>
-  </div>
-  <div class="image-item">
-    <img src="images/arghya_prof.jpg" alt="Image 4" class="image">
-    <p>Arghya Mukherjee - PhD Scholar, IIT Kanpur</p>
-  </div>
-  <div class="image-item">
-    <img src="images/ankita.jpg" alt="Image 5" class="image">
-    <p>Ankita Bose - Assistant Manager in Data Science</p>
-  </div>
+<div class="team-container">
+<div class="team-member">
+<pre><code>&lt;img src="images/sam_prof.jpg" alt="Samrit Pramanik"&gt;
+&lt;p&gt;Samrit Pramanik&lt;/p&gt;
+&lt;p class="designation"&gt;Data Scientist&lt;/p&gt;</code></pre>
 </div>
-
+<div class="team-member">
+<pre><code>&lt;img src="images/abhi_prof.jpg" alt="Abhirup Moitra"&gt;
+&lt;p&gt;Abhirup Moitra&lt;/p&gt;
+&lt;p class="designation"&gt;MSc in Math with Data Science, IMA&lt;/p&gt;</code></pre>
+</div>
+<div class="team-member">
+<pre><code>&lt;img src="images/susmita.jpg" alt="Susmita Chatterjee"&gt;
+&lt;p&gt;Susmita Chatterjee&lt;/p&gt;
+&lt;p class="designation"&gt;Assistant Professor &amp; PhD Supervisor&lt;/p&gt;</code></pre>
+</div>
+<div class="team-member">
+<pre><code>&lt;img src="images/sakhi.jpg" alt="Sakhi Roy"&gt;
+&lt;p&gt;Sakhi Roy&lt;/p&gt;
+&lt;p class="designation"&gt;Assistant Professor, Amity University&lt;/p&gt;</code></pre>
+</div>
+<div class="team-member">
+<pre><code>&lt;img src="images/ani2_prof.jpg" alt="Anwesha Roy"&gt;
+&lt;p&gt;Anwesha Roy&lt;/p&gt;
+&lt;p class="designation"&gt;Statistical Programmer&lt;/p&gt;</code></pre>
+</div>
+<div class="team-member">
+<pre><code>&lt;img src="images/arghya_prof.jpg" alt="Arghya Mukherjee"&gt;
+&lt;p&gt;Arghya Mukherjee&lt;/p&gt;
+&lt;p class="designation"&gt;PhD Scholar, IIT Kanpur&lt;/p&gt;</code></pre>
+</div>
+</div>
 
 
 
