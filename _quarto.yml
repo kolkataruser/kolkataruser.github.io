@@ -20,6 +20,8 @@ website:
         icon: people
       - href: meetup.qmd
         icon: people-fill
+      - href: r4e.qmd
+        icon: bookmark-heart
     right:
       - icon: github
         href: 'https://github.com/kolkataruser/kolkataruser.github.io'

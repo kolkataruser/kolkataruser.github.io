@@ -1,0 +1,78 @@
+---
+title: "R For Everyone"
+subtitle: "A Kolkata R UseR Group Initiative to teach R"
+format: html
+toc: false
+---
+
+# What is R?
+
+**R** is an open-source (free) programming language and environment mainly for statistical computing and graphics. It is similar to *S* language which was developed at Bell Laboratories (formerly AT&T, now Lucent Technologies) by John Chambers and colleagues. R was initially written by *Robert Gentleman* and *Ross Ihaka* (also known as "R & R") of the Statistics Department of the University of Auckland.
+
+R provides a wide variety of statistical and graphical techniques and highly extensible.
+
+The first official R version 1.0.0 was released on ***29 February 2000***.
+
+# Course Structure
+
+### **Introduction to R and RStudio**
+
+-   What is R? Why use R for data analysis?
+
+-   Overview of RStudio Interface
+
+-   Basic R Commands (Syntax, Console, Scripts)
+
+### **Data Types and Structures in R**
+
+-   Vectors, Matrices, Data Frames, Lists
+
+-   Loading data into R (CSV, Excel, etc.)
+
+-   Understanding variable types: Numeric, Character, Factor, Logical
+
+### **Data Manipulation with R**
+
+-   Importing, exploring, and cleaning data using `{dplyr}`
+
+-   Selecting, filtering, and arranging data
+
+-   Summarising and transforming data with use cases
+
+### **Basic Statistical Concepts**
+
+-   Descriptive Statistics: Mean, Median, Mode, Variance, Standard Deviation
+
+-   Frequency distributions, tables, and charts
+
+-   Hands-on practice: Calculating basic statistics using R functions
+
+### **Inferential Statistics and Hypothesis Testing**
+
+-   Understanding Population vs Sample
+
+-   Introduction to Hypothesis Testing (t-tests, chi-square tests)
+
+-   p-value concept and significance levels
+
+### **Data Visualization**
+
+-   Introduction to `{ggplot2}` for data visualisation
+
+-   Creating basic plots: scatterplots, histograms, boxplots
+
+### **Statistical Modelling & Linear Regression**
+
+-   Introduction to Regression Analysis
+
+-   Building a simple linear regression model in R
+
+-   Interpreting the results of the model
+
+### **Sessions on Demand**
+
+-   These can be taken based on the requirements of the candidates.
+
+## Course Instructor
+
+-   Samrit Pramanik - Senior Statistical Modeler
