@@ -14,4 +14,5 @@ toc: false
 | 13-14th November, 2024 | `IP01` | Basic Statistics and Data Analysis with R | In-person | [Samrit Pramanik](https://samrit.quarto.pub), [Ankita Bose](https://www.linkedin.com/in/abose1998/), Susmita Chatterjee | \- |
 | 22nd December, 2024 | `VR07` | Bayesian Modelling with R and Stan | Virtual | [Soham Mukherjee](https://www.linkedin.com/in/soham-mukherjee-33a397146/) | [YouTube Link](https://youtu.be/GUD-V31RORM?si=DO80rdsJ3TGAaNGs) |
 | 18th January, 2025 | `VR08` | Introduction to Snapshot Testing in R | Virtual | [Indrajeet Patil](https://sites.google.com/site/indrajeetspatilmorality/) | \- |
+| 31st May, 2025 | `VR09` | Navigating Model Selection and Regularization: A Journey Through the Corridors of R | Virtual | Dr. Ayan Paul | [YouTube Link](https://youtu.be/ERJSWMDLzIo) |
 :::
