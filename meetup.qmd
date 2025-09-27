@@ -5,7 +5,7 @@ toc: false
 
 ::: {style="text-align: center; font-size: 22px"}
 | Event Date | Event Id | Event Name | Event Type | Speaker | Recordings |
-|----|----|----|----|----|----|
+|------------|------------|------------|------------|------------|------------|
 | 8th June, 2024 | `VR01` | Everything with Quarto | Virtual | [Samrit Pramanik](https://samrit.quarto.pub) | [YouTube Link](https://youtu.be/iqbxK5QsB1c) |
 | 13th July, 2024 | `VR02` | A New Approach for Teaching Data Analytics with R | Virtual | [Abhimanyu Gupta](https://www.linkedin.com/in/abhimanyu-gupta/) | [YouTube Link](https://youtu.be/QLlLE1Lsr2g) |
 | 27th July, 2024 | `VR03` | Structural Equation Modeling with R | Virtual | Susmita Chatterjee | [YouTube Link](https://youtu.be/n2OsrIeoUac) |
@@ -15,4 +15,6 @@ toc: false
 | 22nd December, 2024 | `VR07` | Bayesian Modelling with R and Stan | Virtual | [Soham Mukherjee](https://www.linkedin.com/in/soham-mukherjee-33a397146/) | [YouTube Link](https://youtu.be/GUD-V31RORM?si=DO80rdsJ3TGAaNGs) |
 | 18th January, 2025 | `VR08` | Introduction to Snapshot Testing in R | Virtual | [Indrajeet Patil](https://sites.google.com/site/indrajeetspatilmorality/) | \- |
 | 31st May, 2025 | `VR09` | Navigating Model Selection and Regularization: A Journey Through the Corridors of R | Virtual | Dr. Ayan Paul | [YouTube Link](https://youtu.be/ERJSWMDLzIo) |
+| 27th August, 2025 | `VR10` | Let's Talk About Positron | Virtual | Saranjeet Kaur Bhogal | [YouTube Link](https://youtu.be/6ZSSuaMvU6Q) |
+| 13th September, 2025 | `VR11` | Dynamic Documents using Quarto and {purrr} | Virtual | [Nithin M](https://nithinmkp.github.io/) | [YouTube Link](https://youtu.be/YpMT8UVJmLM) |
 :::
