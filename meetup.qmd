@@ -17,4 +17,5 @@ toc: false
 | 31st May, 2025 | `VR09` | Navigating Model Selection and Regularization: A Journey Through the Corridors of R | Virtual | Dr. Ayan Paul | [YouTube Link](https://youtu.be/ERJSWMDLzIo) |
 | 27th August, 2025 | `VR10` | Let's Talk About Positron | Virtual | Saranjeet Kaur Bhogal | [YouTube Link](https://youtu.be/6ZSSuaMvU6Q) |
 | 13th September, 2025 | `VR11` | Dynamic Documents using Quarto and {purrr} | Virtual | [Nithin M](https://nithinmkp.github.io/) | [YouTube Link](https://youtu.be/YpMT8UVJmLM) |
+| 12th October, 2025 | `VR12` | More Than Code: R for Research, Advocacy, Expression | Virtual | [Aarsh Batra](https://www.linkedin.com/in/aarsh-batra/) | [YouTube Link](https://youtu.be/q77HE5rxRZo) |
 :::

@@ -9,7 +9,7 @@
 <link>https://kolkataruser.github.io/blog.html</link>
 <atom:link href="https://kolkataruser.github.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.6.42</generator>
+<generator>quarto-1.7.32</generator>
 <lastBuildDate>Sat, 11 May 2024 18:30:00 GMT</lastBuildDate>
 <item>
   <title>A Journey through Kolkata’s Historical Tapestry, Statistical Insights, and R Programming</title>
@@ -31,9 +31,6 @@
 </figure>
 </div>
 <p>The city’s bustling streets are adorned with architectural marvels that speak to its colonial past and indigenous influences, serving as tangible reminders of Kolkata’s cultural legacy. From the iconic <a href="https://en.wikipedia.org/wiki/Victoria_Memorial,_Kolkata">Victoria Memorial</a> to the majestic <a href="https://en.wikipedia.org/wiki/Howrah_Bridge">Howrah Bridge</a>, Kolkata’s landmarks reflect the city’s eclectic blend of heritage and modernity.</p>
-<div>
-
-</div>
 <div class="quarto-layout-panel" data-layout-ncol="2">
 <div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
@@ -49,9 +46,6 @@
 <section id="contributions-of-visionary-personalities" class="level1">
 <h1><strong>Contributions of Visionary Personalities</strong></h1>
 <p>Kolkata owes much of its intellectual vibrancy to luminaries like Sir Jagadish Chandra Bose, whose groundbreaking work in physics and biology, including experiments with radio waves and the study of plant responses, reshaped our understanding of the natural world.</p>
-<div>
-
-</div>
 <div class="quarto-layout-panel" data-layout-ncol="2">
 <div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 42.2%;justify-content: center;">
@@ -63,9 +57,6 @@
 </div>
 </div>
 <p>Satyendra Nath Bose, a prominent mathematician and physicist from Kolkata, collaborated with Albert Einstein to develop Bose-Einstein statistics and Bose-Einstein condensate, fundamental concepts in quantum physics. The discovery of Higgs-Boson particle, which played a crucial role in Standard Model in particle physics, stands as another testament to the profound impact of Indian scientist on the forefront of astrophysics and cosmology.</p>
-<div>
-
-</div>
 <div class="quarto-layout-panel" data-layout-ncol="2">
 <div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 43.8%;justify-content: center;">
@@ -89,9 +80,6 @@
 </div>
 <p>Alongside other leading statisticians, Mahalanobis (<em>often referred to as the father of modern statistics in India</em>) founded the <a href="https://www.isical.ac.in/">Indian Statistical Institute (ISI)</a> in Kolkata in 1931, becoming a hub for statistical research and education. His development of the Mahalanobis distance and his pioneering work in sample surveys revolutionized statistical methodology, earned him global recognition.</p>
 <p>ISI’s origin can be traced back to the Statistical Laboratory in <a href="https://www.presiuniv.ac.in/web/">Presidency College, Kolkata (now Presidency University)</a>, set up by Mahalanobis, who worked in the Physics Department of the college in the 1920s. An informal group developed in the Statistical Laboratory, which was located in his room at the Presidency College, Calcutta.</p>
-<div>
-
-</div>
 <div class="quarto-layout-panel" data-layout-ncol="2">
 <div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
