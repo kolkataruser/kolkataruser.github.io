@@ -4,7 +4,7 @@ toc: false
 ---
 
 ::: {style="text-align: center; font-size: 22px"}
-| Event Date | Event Id | Event Name | Event Type | Speaker | Recordings |
+|  Event Date | Event Id | Event Name | Event Type | Speaker | Recordings |
 |------------|------------|------------|------------|------------|------------|
 | 8th June, 2024 | `VR01` | Everything with Quarto | Virtual | [Samrit Pramanik](https://samrit.quarto.pub) | [YouTube Link](https://youtu.be/iqbxK5QsB1c) |
 | 13th July, 2024 | `VR02` | A New Approach for Teaching Data Analytics with R | Virtual | [Abhimanyu Gupta](https://www.linkedin.com/in/abhimanyu-gupta/) | [YouTube Link](https://youtu.be/QLlLE1Lsr2g) |
@@ -18,4 +18,6 @@ toc: false
 | 27th August, 2025 | `VR10` | Let's Talk About Positron | Virtual | Saranjeet Kaur Bhogal | [YouTube Link](https://youtu.be/6ZSSuaMvU6Q) |
 | 13th September, 2025 | `VR11` | Dynamic Documents using Quarto and {purrr} | Virtual | [Nithin M](https://nithinmkp.github.io/) | [YouTube Link](https://youtu.be/YpMT8UVJmLM) |
 | 12th October, 2025 | `VR12` | More Than Code: R for Research, Advocacy, Expression | Virtual | [Aarsh Batra](https://www.linkedin.com/in/aarsh-batra/) | [YouTube Link](https://youtu.be/q77HE5rxRZo) |
+| 16th November, 2025 | `VR13` | Creating Dynamic Patterns with Complex Functions in R | Virtual | [Abhirup Moitra](https://abhirup-moitra-mathstat.netlify.app/) | [YouTube Link](https://youtu.be/V84nIm89bXc) |
+| 6th December, 2025 | `VR14` | Package Reviewer | Virtual | [Ronak Shah](https://github.com/shahronak47) | [YouTube Link](https://youtu.be/_IBBlAtgWdY) |
 :::
